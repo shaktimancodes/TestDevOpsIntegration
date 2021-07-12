@@ -1,2 +1,4 @@
 this is a new line
 this is just a test file
+
+feature1
